@@ -1,2 +1,1 @@
-# USC_ISA
-Temporarily hosting USC ISA website
+This is just for temporarily hosting USC ISA website
