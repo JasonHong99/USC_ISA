@@ -15,3 +15,17 @@ html {
     background-position: 50% 50%;
     opacity: 1;
 }
+.image-cropper {
+    width: 250px;
+    height: 250px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+}
